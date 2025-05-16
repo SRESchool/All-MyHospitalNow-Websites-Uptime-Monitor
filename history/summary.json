@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/besteyehospitals.com.ico",
     "slug": "besteyehospitals",
     "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
+    "uptime": "95.48%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "95.48%",
+    "uptimeYear": "95.48%",
     "time": 757,
     "timeDay": 757,
     "timeWeek": 757,
@@ -169,11 +169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiphospitals.com.ico",
     "slug": "hiphospitals",
     "status": "up",
-    "uptime": "41.60%",
-    "uptimeDay": "41.60%",
-    "uptimeWeek": "41.60%",
-    "uptimeMonth": "41.60%",
-    "uptimeYear": "41.60%",
+    "uptime": "42.49%",
+    "uptimeDay": "42.49%",
+    "uptimeWeek": "42.49%",
+    "uptimeMonth": "42.49%",
+    "uptimeYear": "42.49%",
     "time": 1018,
     "timeDay": 1018,
     "timeWeek": 1018,
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 870
+      "2025-05-16": 883
     }
   },
   {
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 869
+      "2025-05-16": 883
     }
   }
 ]
