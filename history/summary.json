@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1049,
-    "timeDay": 1049,
-    "timeWeek": 1049,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "time": 1053,
+    "timeDay": 1053,
+    "timeWeek": 1053,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {}
   },
   {
@@ -40,6 +40,24 @@
     "url": "https://BESTCOSMETICHOSPITALS.COM",
     "icon": "https://icons.duckduckgo.com/ip3/bestcosmetichospitals.com.ico",
     "slug": "bestcosmetichospitals",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1187,
+    "timeDay": 1187,
+    "timeWeek": 1187,
+    "timeMonth": 1187,
+    "timeYear": 1187,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bestdentalhospitals",
+    "url": "https://BESTDENTALHOSPITALS.COM",
+    "icon": "https://icons.duckduckgo.com/ip3/bestdentalhospitals.com.ico",
+    "slug": "bestdentalhospitals",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -54,39 +72,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Bestdentalhospitals",
-    "url": "https://BESTDENTALHOSPITALS.COM",
-    "icon": "https://icons.duckduckgo.com/ip3/bestdentalhospitals.com.ico",
-    "slug": "bestdentalhospitals",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 1178,
-    "timeWeek": 1178,
-    "timeMonth": 1178,
-    "timeYear": 1178,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Besteyehospitals",
     "url": "https://BESTEYEHOSPITALS.COM",
     "icon": "https://icons.duckduckgo.com/ip3/besteyehospitals.com.ico",
     "slug": "besteyehospitals",
     "status": "up",
-    "uptime": "93.26%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "93.26%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "uptime": "93.33%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "93.33%",
+    "time": 625,
+    "timeDay": 625,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-05-16": 40
     }
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 1048,
-    "timeWeek": 1048,
-    "timeMonth": 1048,
-    "timeYear": 1048,
+    "time": 1050,
+    "timeDay": 1050,
+    "timeWeek": 1050,
+    "timeMonth": 1050,
+    "timeYear": 1050,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1038,
-    "timeDay": 1038,
-    "timeWeek": 1038,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "time": 1041,
+    "timeDay": 1041,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {}
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiphospitals.com.ico",
     "slug": "hiphospitals",
     "status": "up",
-    "uptime": "61.08%",
-    "uptimeDay": "61.08%",
-    "uptimeWeek": "61.08%",
-    "uptimeMonth": "61.08%",
-    "uptimeYear": "61.08%",
-    "time": 1027,
-    "timeDay": 1027,
-    "timeWeek": 1027,
-    "timeMonth": 1027,
-    "timeYear": 1027,
+    "uptime": "60.40%",
+    "uptimeDay": "60.40%",
+    "uptimeWeek": "60.40%",
+    "uptimeMonth": "60.40%",
+    "uptimeYear": "60.40%",
+    "time": 1030,
+    "timeDay": 1030,
+    "timeWeek": 1030,
+    "timeMonth": 1030,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2025-05-16": 230
+      "2025-05-16": 237
     }
   },
   {
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1159,
-    "timeWeek": 1159,
-    "timeMonth": 1159,
-    "timeYear": 1159,
+    "time": 1163,
+    "timeDay": 1163,
+    "timeWeek": 1163,
+    "timeMonth": 1163,
+    "timeYear": 1163,
     "dailyMinutesDown": {}
   },
   {
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 592
+      "2025-05-16": 599
     }
   },
   {
@@ -232,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1166,
-    "timeDay": 1166,
-    "timeWeek": 1166,
-    "timeMonth": 1166,
-    "timeYear": 1166,
+    "time": 1168,
+    "timeDay": 1168,
+    "timeWeek": 1168,
+    "timeMonth": 1168,
+    "timeYear": 1168,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 592
+      "2025-05-16": 599
     }
   }
 ]
