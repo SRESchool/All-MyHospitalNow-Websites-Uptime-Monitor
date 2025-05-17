@@ -95,10 +95,7 @@ sites:
     followRedirects: true
     expectedStatus: 200
     ssl: true
-    port: 80, 443
-    check: "tcp-ping"
-    ipv6: true
-
+    
 status-website:
   cname: null
   baseUrl: /All-MyHospitalNow-Websites-Uptime-Monitor
@@ -134,11 +131,11 @@ committer:
 notifications:
   - type: email
     smtpTo: contact@motoshare.in
-    smtpFrom: contact@motoshare.in
+    smtpFrom: pritesh.thamke@gmail.com
     smtpHost: smtp.gmail.com
     smtpPort: 587
     smtpUsername: contact@motoshare.in
-    smtpPassword: kmxg nshc vsrf kxqj
+    smtpPassword: "kmxg nshc vsrf kxqj"
     events:
       - up
       - down
